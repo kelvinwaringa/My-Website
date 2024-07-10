@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bdb9a05-ffca-4d9a-b87a-69e0cbc8dad9" name="Changes" comment="Roll back test changes">
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/angela.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chillies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kelvin-modified.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kelvin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mountain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hobbies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="myweb" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kelvinwaringa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kelvinwaringa/My-Website&quot;,
+    &quot;accountId&quot;: &quot;76b09a02-1121-43fd-9560-cac3a55eb072&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/css/style.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hjux8yrW5GHMtckCL4Tc8lcDUS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "myweb",
+    "last_opened_file_path": "D:/Coding Bootcamp/python/py projects/1 pythonProject/2.1 bs4-start",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.qodana"
+  }
+}]]></component>
+  <component name="QodanaCloudProjectLink">
+    <option name="lastReportId" value="vn9NL" />
+    <option name="linkedProjectId" value="zE9jj" />
+    <option name="linkedProjectName" value="My Website" />
+    <option name="organizationId" value="p9RmN" />
+    <option name="userId" value="P24m6" />
+  </component>
+  <component name="QodanaHighlightedReportService">
+    <option name="cloudReportPersistedInfo">
+      <CloudReportPersistedInfo>
+        <option name="projectId" value="zE9jj" />
+        <option name="reportId" value="vn9NL" />
+      </CloudReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\warin\AppData\Local\Temp\qodana_output\qodana.sarif.json" publishedReportLink="https://qodana.cloud/projects/zE9jj/reports/vn9NL" reportGuid="3a6d686a-7838-4460-859b-a06fd2a01421" reportId="myweb/qodana/2024-07-10" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding Bootcamp\python\py projects\2 web projects\myweb\images" />
+      <recent name="D:\Coding Bootcamp\python\py projects\2 web projects\myweb" />
+      <recent name="D:\Coding Bootcamp\python\py projects\2 web projects\myweb\css" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bdb9a05-ffca-4d9a-b87a-69e0cbc8dad9" name="Changes" comment="" />
+      <created>1718120051722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718120051722</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718202151355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718202151355</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718202209974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718202209974</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718202431571</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718202431571</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718202451364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718202451364</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718204864700</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718204864700</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718204879147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718204879147</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718204983420</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718204983420</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718205610001</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718205610001</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718205722847</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718205722847</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718205792658</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718205792658</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718205951077</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718205951077</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718205984400</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718205984400</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718389663355</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718389663355</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Web Dev Project">
+      <option name="closed" value="true" />
+      <created>1718389799133</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718389799133</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Test">
+      <option name="closed" value="true" />
+      <created>1718390281647</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718390281647</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Roll back test changes">
+      <option name="closed" value="true" />
+      <created>1718390325753</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718390325753</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Roll back test changes">
+      <option name="closed" value="true" />
+      <created>1720607429151</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1720607429151</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../../1 pythonProject" />
+    </ignored-roots>
+    <MESSAGE value="Web Dev CV Project" />
+    <MESSAGE value="Web Dev Project" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Roll back test changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Roll back test changes" />
+  </component>
+</project>
