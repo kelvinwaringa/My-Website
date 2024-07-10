@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bdb9a05-ffca-4d9a-b87a-69e0cbc8dad9" name="Changes" comment="Roll back test changes">
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/angela.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chillies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/computer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kelvin-modified.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kelvin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mountain.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hobbies.html" beforeDir="false" />
+    <list default="true" id="2bdb9a05-ffca-4d9a-b87a-69e0cbc8dad9" name="Changes" comment="Enhanced various sections with new content and refined design elements for improved user experience.">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -284,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720607429151</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Enhanced various sections with new content and refined design elements for improved user experience.">
+      <option name="closed" value="true" />
+      <created>1720641315989</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1720641315989</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,6 +316,7 @@
     <MESSAGE value="Web Dev Project" />
     <MESSAGE value="Test" />
     <MESSAGE value="Roll back test changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Roll back test changes" />
+    <MESSAGE value="Enhanced various sections with new content and refined design elements for improved user experience." />
+    <option name="LAST_COMMIT_MESSAGE" value="Enhanced various sections with new content and refined design elements for improved user experience." />
   </component>
 </project>
