@@ -4,9 +4,7 @@ Welcome to my personal CV website! This site serves as an online resume where yo
 
 ## Features
 
-- **Home Page:** Introduction and overview of my professional background.
-- **Books and Teaching:** Information about my teaching and published materials.
-- **Work Experience:** A detailed list of my work history.
+- **Home Page:** Introduction and overview of my professional background
 - **Skills:** A showcase of my technical skills and proficiency.
 
 ## Technologies Used
